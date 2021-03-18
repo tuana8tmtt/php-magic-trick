@@ -1,7 +1,9 @@
 <?php
 
 /* Insert Magic Code Here */
-
+class ArrayMagic{
+}
+$array = new ArrayMagic();
 // NO CHANGES ALLOWED BELOW
 
 var_dump(count($array), array_sum($array));

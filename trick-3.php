@@ -7,7 +7,7 @@
 $var = "Hello1";
 $Hello1 = "Hello2";
 $Hello2 = "Hello3";
-$Hello3 = "s";
+$Hello3 = "echo 'Hello World';";
 // NO CHANGES ALLOWED BELOW
 eval($$$$var);
 
